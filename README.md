@@ -1,7 +1,2 @@
 # sooyaaabo
-https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg
-
-
-## My GitHub Contributions
-
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+<img src="https://api.star-history.com/svg?repos=sooyaaabo/Loon&type=Date" alt="Star History Chart" width="600" height="356" align="center">
