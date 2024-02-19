@@ -1,9 +1,9 @@
 # sooyaaabo
 ![Visitor Count](https://profile-counter.glitch.me/sooyaaabo/count.svg)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooyaaabo&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooyaaabo&rank_icon=github&count_private=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooyaaabo)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sooyaaabo&repo=sooyaaabo)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sooyaaabo&repo=Loon)
