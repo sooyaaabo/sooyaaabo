@@ -1,0 +1,17 @@
+#!name = Cookies Test
+#!desc = Cookies测试
+#!openUrl = 
+#!author = sooyaaabo
+#!homepage = https://github.com/sooyaaabo/sooyaaabo
+#!icon = 
+#!date = 2024-02-21 18:18
+
+[Script]
+# 微博
+http-request ^https:\/\/m?api\.weibo\.c(n|om)\/\d\/users\/show script-path = https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/cookie/get_cookie.js, requires-body = true, tag = 微博Cookies1
+http-request ^https:\/\/api\.weibo\.cn\/\d\/users\/show script-path = https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/weibo_sign.js, requires-body = true, tag = 微博Cookies2
+http-request ^https:\/\/api\.weibo\.cn\/2\/logservice\/attach script-path = https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/weibo_sign.js, requires-body = true, tag = 微博Cookies3
+http-request ^https:\/\/weibo\.com\/p\/aj\/general\/button\?ajwvr=6&api=http:\/\/i\.huati\.weibo\.com\/aj\/super\/checkin script-path = https://raw.githubusercontent.com/lowking/Scripts/master/weibo/weiboSTCookie.js, requires-body = true, tag = 微博Cookies4
+
+[Mitm]
+hostname = weibo.cn, weibo.com
