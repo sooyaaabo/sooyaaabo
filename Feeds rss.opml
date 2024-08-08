@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>Feeds……</title>
+</head>
+<body>
+<outline htmlUrl="https://t.me/s/aboutrss" xmlUrl="https://rsshub.rssforever.com/telegram/channel/aboutrss/showLinkPreview=0&amp;showViaBot=0&amp;showReplyTo=0&amp;showFwdFrom=0&amp;showFwdFromAuthor=0&amp;showInlineButtons=0&amp;showMediaTagInTitle=0&amp;showMediaTagAsEmoji=0&amp;includeFwd=0&amp;includeReply=0&amp;includeServiceMsg=0&amp;includeUnsupportedMsg=0" title="ALL About RSS - Telegram Channel" type="rss" text="ALL About RSS - Telegram Channel" />
+<outline text="0 简讯" title="0 简讯">
+<outline type="rss" xmlUrl="https://rsshub.app/sspai/index?filter=%E6%97%A9%E6%8A%A5" title="少数派 -- 首页" htmlUrl="https://sspai.com" text="少数派 -- 首页" />
+<outline xmlUrl="http://feedx.net/rss/idaily.xml" type="rss" htmlUrl="http://m.idai.ly/" title="每日环球视野" text="每日环球视野" />
+<outline htmlUrl="https://theinitium.com/channel/news-brief/" type="rss" xmlUrl="https://rsshub.app/theinitium/channel/news-brief" title="端传媒 - 日报" text="端传媒 - 日报" />
+</outline>
+<outline text="1 技术" title="1 技术">
+<outline title="Owen的博客" htmlUrl="https://www.owenyoung.com/atom.xml" type="rss" text="Owen的博客" xmlUrl="https://www.owenyoung.com/atom.xml" />
+<outline text="潮流周刊" type="rss" htmlUrl="https://weekly.tw93.fun/" xmlUrl="https://weekly.tw93.fun/rss.xml" title="潮流周刊" />
+<outline title="V2EX 每日最热" text="V2EX 每日最热" type="rss" htmlUrl="https://v2exday.com/" xmlUrl="https://v2exday.com/allinone.xml" />
+<outline text="BLACK STACK 黑栈" htmlUrl="https://kidsseeghosts.substack.com" xmlUrl="https://kidsseeghosts.substack.com/feed" type="rss" title="BLACK STACK 黑栈" />
+<outline xmlUrl="https://weekly.howie6879.com/rss/rss.xml" title="老胡的周刊" type="rss" htmlUrl="https://weekly.howie6879.com/" text="老胡的周刊" />
+<outline xmlUrl="https://1link.fun/index.xml" text="1Link.Fun 科技周刊" title="1Link.Fun 科技周刊" type="rss" htmlUrl="https://xiaobot.net/p/1link?refer=cd147f62-e3cc-4dd4-8cde-fb2ed1f1be40" />
+</outline>
+<outline title="2 新闻" text="2 新闻">
+<outline text="《联合早报》-中国-新闻" xmlUrl="https://rsshub.rssforever.com/zaobao/znews" title="《联合早报》-中国-新闻" htmlUrl="https://www.zaobao.com/news/china" type="rss" />
+<outline text="《联合早报》-国际-新闻" xmlUrl="https://rsshub.rssforever.com/zaobao/znews/world" type="rss" title="《联合早报》-国际-新闻" htmlUrl="https://www.zaobao.com/news/world" />
+</outline>
+<outline title="3 兴趣" text="3 兴趣">
+<outline text="数码摄影学校" title="数码摄影学校" xmlUrl="https://q1azq1a.github.io/RSS-Translation/rss/photography.xml" htmlUrl="https://digital-photography-school.com/feed/" type="rss" />
+<outline title="爱范儿" htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" text="爱范儿" xmlUrl="https://www.ifanr.com/feed" type="rss" />
+<outline type="rss" xmlUrl="http://www.sciencemag.org/rss/current.xml" htmlUrl="https://www.science.org/journal/science" text="Science" title="Science" />
+<outline title="Lonely Planet News" xmlUrl="http://www.lonelyplanet.com/news/feed/atom/" type="rss" htmlUrl="http://www.lonelyplanet.com" text="Lonely Planet News" />
+<outline title="热门文章 - 日榜 - 人人都是产品经理" type="rss" htmlUrl="https://www.woshipm.com" text="热门文章 - 日榜 - 人人都是产品经理" xmlUrl="https://rsshub.rssforever.com/woshipm/popular" />
+<outline text="不死鸟 - 分享为王官网" title="不死鸟 - 分享为王官网" type="rss" htmlUrl="https://iui.su/" xmlUrl="https://iui.su/feed/atom/" />
+<outline text="Newlearnerの自留地 - Telegram Channel" htmlUrl="https://t.me/s/NewlearnerChannel" xmlUrl="https://rsshub.rssforever.com/telegram/channel/NewlearnerChannel/showLinkPreview=0&amp;showViaBot=0&amp;showReplyTo=0&amp;showFwdFrom=0&amp;showFwdFromAuthor=0&amp;showInlineButtons=0&amp;showMediaTagInTitle=0&amp;showMediaTagAsEmoji=0&amp;includeFwd=0&amp;includeReply=0&amp;includeServiceMsg=0&amp;includeUnsupportedMsg=0" title="Newlearnerの自留地 - Telegram Channel" type="rss" />
+<outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" htmlUrl="http://www.ruanyifeng.com/blog/" xmlUrl="http://feeds.feedburner.com/ruanyifeng" />
+<outline htmlUrl="https://blog.hubspot.com/marketing" title="Marketing" text="Marketing" type="rss" xmlUrl="https://blog.hubspot.com/marketing/rss.xml" />
+<outline type="rss" htmlUrl="https://blog.misaka.cyou/atom.xml" title="MisakaNo の 小破站" text="MisakaNo の 小破站" xmlUrl="https://blog.misaka.rest/atom.xml" />
+<outline type="rss" xmlUrl="https://tool.bcrjl.com/snzy-rss/" text="十年之约聚合订阅" title="十年之约聚合订阅" htmlUrl="https://blog.yanqingshan.com/" />
+<outline xmlUrl="http://www.zhihu.com/rss" type="rss" text="知乎每日精选" title="知乎每日精选" htmlUrl="http://www.zhihu.com" />
+</outline>
+<outline text="4 观点" title="4 观点">
+<outline xmlUrl="https://hnboy2005.github.io/RSS-Translation/rss/Scott_H_Young.xml" htmlUrl="https://www.scotthyoung.com/blog/feed/" type="rss" title="斯科特·H·杨" text="斯科特·H·杨" />
+<outline text="No Mercy / No Malice" htmlUrl="https://www.profgalloway.com/" type="rss" xmlUrl="https://www.profgalloway.com/feed/" title="No Mercy / No Malice" />
+<outline text="诺阿平宁" htmlUrl="https://www.noahpinion.blog/feed" xmlUrl="https://q1azq1a.github.io/RSS-Translation/rss/noahpinion.xml" title="诺阿平宁" type="rss" />
+<outline type="rss" text="Collab Fund" title="Collab Fund" htmlUrl="https://collabfund.com" xmlUrl="http://feeds.feedburner.com/collabfund" />
+<outline xmlUrl="https://q1azq1a.github.io/RSS-Translation/rss/ritholtz.xml" type="rss" text="大局观" htmlUrl="https://ritholtz.com/feed/" title="大局观" />
+<outline text="Noahpinion" htmlUrl="https://www.noahpinion.blog" title="Noahpinion" xmlUrl="https://www.noahpinion.blog/feed" type="rss" />
+<outline title="太隐" text="太隐" htmlUrl="https://wangyurui.com/" type="rss" xmlUrl="https://wangyurui.com/feed.xml" />
+<outline type="rss" title="Marginal REVOLUTION" htmlUrl="https://marginalrevolution.com/" xmlUrl="https://marginalrevolution.com/feed" text="Marginal REVOLUTION" />
+<outline text="Scott H Young" xmlUrl="https://www.scotthyoung.com/blog/feed" htmlUrl="https://www.scotthyoung.com/blog/" type="rss" title="Scott H Young" />
+<outline title="Seth's Blog" text="Seth's Blog" htmlUrl="https://seths.blog" xmlUrl="https://seths.blog//feed" type="rss" />
+<outline htmlUrl="https://www.profgalloway.com/" type="rss" title="No Mercy / No Malice" xmlUrl="https://www.profgalloway.com/feed" text="No Mercy / No Malice" />
+<outline type="rss" htmlUrl="https://flowingdata.com/feed/" title="流动数据" xmlUrl="https://q1azq1a.github.io/RSS-Translation/rss/flowingdata.xml" text="流动数据" />
+<outline htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=%E7%9C%8B%E7%90%86%E6%83%B3" text="看理想" xmlUrl="https://plink.anyfeeder.com/weixin/ikanlixiang" type="rss" title="看理想" />
+</outline>
+<outline text="5 影像" title="5 影像">
+<outline text="开眼精选" htmlUrl="https://www.kaiyanapp.com/" xmlUrl="https://rsshub.rssforever.com/kaiyan/index" title="开眼精选" type="rss" />
+<outline text="CNU视觉联盟 - 每日精选" type="rss" htmlUrl="http://www.cnu.cc/selectedPage" xmlUrl="https://rsshub.rssforever.com/cnu/selected" title="CNU视觉联盟 - 每日精选" />
+</outline>
+<outline title="归档" text="归档">
+<outline htmlUrl="https://www.economist.com" title="The Economist Print Edition" text="The Economist Print Edition" type="rss" xmlUrl="https://feedx.net/rss/economistp.xml" />
+<outline title="麻省理工学院斯隆管理评论" text="麻省理工学院斯隆管理评论" xmlUrl="https://q1azq1a.github.io/RSS-Translation/rss/feedburner.xml" type="rss" htmlUrl="http://sloanreview.mit.edu/feed/" />
+<outline text="丁香医生" type="rss" title="丁香医生" htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F" xmlUrl="https://plink.anyfeeder.com/weixin/DingXiangYiSheng" />
+<outline title="FeedX" type="rss" text="FeedX" htmlUrl="https://feedx.net" xmlUrl="https://feedx.net/feed" />
+<outline htmlUrl="https://www.economist.com" text="The Economist" type="rss" title="The Economist" xmlUrl="https://feedx.net/rss/economist.xml" />
+<outline htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=%E5%93%88%E4%BD%9B%E5%95%86%E4%B8%9A%E8%AF%84%E8%AE%BA" text="哈佛商业评论" xmlUrl="https://plink.anyfeeder.com/weixin/hbrchinese" title="哈佛商业评论" type="rss" />
+<outline xmlUrl="https://plink.anyfeeder.com/weixin/runliu-pub" text="刘润" type="rss" title="刘润" htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=%E5%88%98%E6%B6%A6" />
+<outline htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4" xmlUrl="https://plink.anyfeeder.com/weixin/luojisw" type="rss" text="罗辑思维" title="罗辑思维" />
+</outline>
+</body>
+</opml>
